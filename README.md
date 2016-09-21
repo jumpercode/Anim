@@ -1,3 +1,11 @@
 # Anim
+
 Corona SDK - Sample Project
-____
+
+* Game Loop
+* Event Stack
+* Input: Kyes
+* Collision detection
+* Linear Sprite Animation
+
+Write In Lua 
