@@ -8,4 +8,4 @@ Corona SDK - Sample Project
 * Collision detection
 * Linear Sprite Animation
 
-Write In Lua 
+Written In Lua 
